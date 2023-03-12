@@ -5,4 +5,7 @@ Welcome to the software that will help you to send a message **repeatedly** in t
 ## 软件开发者
 12sdj
 ## 软件开源协议
-MIT License
+MIT License    
+## 适配的社交软件   
+It should be said that as long as it is a social software that supports pressing Enter to send messages, this program can be used normally.  
+eg. WeChat, QQ and discord. 
